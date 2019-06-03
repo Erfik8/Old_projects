@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1520161300 source:c:\users\admin\desktop\potegowanie\main.cpp
+	<iostream>
+	<math.h>
+
+1521488698 source:f:\pliki pliki\programiki\lista powiazana\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstddef>
+	"konwerter.h"
+	<cstdio>
+	<fstream>
+
+1521228230 source:f:\pliki pliki\programiki\lista powiazana\konwerter.cpp
+	<iostream>
+	"konwerter.h"
+
+1520353446 f:\pliki pliki\programiki\lista powiazana\konwerter.h
+	<iostream>
+
+1521618880 source:d:\pliki pliki\programiki\lista powiazana\konwerter.cpp
+	<iostream>
+	"konwerter.h"
+
+1520353446 d:\pliki pliki\programiki\lista powiazana\konwerter.h
+	<iostream>
+
+1521619492 source:d:\pliki pliki\programiki\lista powiazana\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstddef>
+	"konwerter.h"
+	<cstdio>
+	<cstdlib>
+	<fstream>
+
+1521618878 source:c:\users\admin\desktop\kopia pendrives\pendrive 2g\pliki pliki\programiki\lista powiazana\konwerter.cpp
+	<iostream>
+	"konwerter.h"
+
+1520353446 c:\users\admin\desktop\kopia pendrives\pendrive 2g\pliki pliki\programiki\lista powiazana\konwerter.h
+	<iostream>
+
+1521619372 source:c:\users\admin\desktop\kopia pendrives\pendrive 2g\pliki pliki\programiki\lista powiazana\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstddef>
+	"konwerter.h"
+	<cstdio>
+	<cstdlib>
+	<fstream>
+
+1520448972 source:e:\pliki pliki\programiki\lista powiazana\konwerter.cpp
+	<iostream>
+	"konwerter.h"
+
+1520353446 e:\pliki pliki\programiki\lista powiazana\konwerter.h
+	<iostream>
+
+1521104422 source:e:\pliki pliki\programiki\lista powiazana\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstddef>
+	"konwerter.h"
+	<cstdio>
+
+1521618880 source:f:\archiwum c++\lista powiazana\konwerter.cpp
+	<iostream>
+	"konwerter.h"
+
+1520353446 f:\archiwum c++\lista powiazana\konwerter.h
+	<iostream>
+
+1521619492 source:f:\archiwum c++\lista powiazana\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstddef>
+	"konwerter.h"
+	<cstdio>
+	<cstdlib>
+	<fstream>
+

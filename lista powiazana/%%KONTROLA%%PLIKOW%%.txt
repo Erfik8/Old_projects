@@ -1,0 +1,2 @@
+nowaKopia.txt
+kopiaZHaslem.txt

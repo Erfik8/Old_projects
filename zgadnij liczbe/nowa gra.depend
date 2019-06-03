@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1515013244 source:c:\users\admin\desktop\nowa gra\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<time.h>
+
+1515018438 source:e:\kopia komputer\nowa gra\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<time.h>
+

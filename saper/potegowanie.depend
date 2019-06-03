@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1524776266 source:c:\users\admin\desktop\potegowanie\main.cpp
+	<iostream>
+
+1525431546 source:c:\users\admin\desktop\jakieœ œmieci\potegowanie\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
+1525431883 source:c:\users\admin\desktop\jakieœ œmieci\saper\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+

@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1522499013 source:c:\users\admin\desktop\jakieœ coœ tam\main.cpp
+	<iostream>
+	"k_i_k.h"
+	<conio.h>
+
+1522493538 source:c:\users\admin\desktop\jakieœ coœ tam\ko³ko i krzy¿yk.cpp
+	<iostream>
+
+1522492798 c:\users\admin\desktop\jakieœ coœ tam\ko³ko i krzy¿yk.h
+	<iostream>
+
+1522498911 source:c:\users\admin\desktop\jakieœ coœ tam\k_i_k.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"k_i_k.h"
+
+1522499311 c:\users\admin\desktop\jakieœ coœ tam\k_i_k.h
+	<iostream>
+
+1522593540 source:g:\pliki pliki\programiki\jakieœ coœ tam\k_i_k.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"k_i_k.h"
+
+1522592578 g:\pliki pliki\programiki\jakieœ coœ tam\k_i_k.h
+	<iostream>
+
+1522594074 source:g:\pliki pliki\programiki\jakieœ coœ tam\main.cpp
+	<iostream>
+	"k_i_k.h"
+	<conio.h>
+	<windows.h>
+
+1522599444 source:f:\pliki pliki\programiki\jakieœ coœ tam\main.cpp
+	<iostream>
+	"k_i_k.h"
+	<conio.h>
+	<windows.h>
+
+1522599444 f:\pliki pliki\programiki\jakieœ coœ tam\k_i_k.h
+	<iostream>
+
+1522599444 source:f:\pliki pliki\programiki\jakieœ coœ tam\k_i_k.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"k_i_k.h"
+
+1522599444 source:d:\pliki pliki\programiki\jakieœ coœ tam\k_i_k.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"k_i_k.h"
+
+1522599444 d:\pliki pliki\programiki\jakieœ coœ tam\k_i_k.h
+	<iostream>
+
+1522599444 source:d:\pliki pliki\programiki\jakieœ coœ tam\main.cpp
+	<iostream>
+	"k_i_k.h"
+	<conio.h>
+	<windows.h>
+
