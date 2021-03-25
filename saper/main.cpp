@@ -6,7 +6,7 @@
 
 using namespace std;
 
-bool ODKRYJ_WSZYSTKIE_PUSTE_POLA(char  ** tablica_min, char **tablica_znakow ,short int aktualne_x,short int aktualne_y) // funkcja zwruci falsz, jesli zostanie odkryta mina
+bool ODKRYJ_WSZYSTKIE_PUSTE_POLA(char  ** tablica_min, char **tablica_znakow ,short int aktualne_x,short int aktualne_y) 
 {
     bool tymczas;
     if (tablica_min[aktualne_y][aktualne_x]=='X')
@@ -43,7 +43,7 @@ bool ODKRYJ_WSZYSTKIE_PUSTE_POLA(char  ** tablica_min, char **tablica_znakow ,sh
 
 int main ()
 {
-    // zmienne globalne, w celu oszczêdzenia pamieci //
+    // zmienne globalne, w celu oszczÄ™dzenia pamieci //
     short int i,j;
     short int nawi_x=4,nawi_y=4;
     bool game = true;
